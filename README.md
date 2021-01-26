@@ -1,1 +1,1 @@
-# 25ThProject
+# CP-2
